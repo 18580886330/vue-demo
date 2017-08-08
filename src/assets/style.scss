@@ -1,0 +1,40 @@
+/*
+* 路由淡入淡出
+ */
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+  opacity: 1;
+}
+.fade-enter, .fade-leave-to{
+  opacity: 0
+}
+
+/*
+* 路由滑入滑出
+ */
+.slide-enter-active, .slide-leave-active {
+  transition: all .3s ease;
+}
+.slide-enter{
+  transform: translateX(-50px);
+  opacity: 0;
+}
+.slide-leave-to{
+  transform: translateX(50px);
+  opacity: 0;
+}
+
+.navbar{
+  li{
+    float:left;
+    cursor: pointer;
+    padding: 15px;
+    &.active{
+      background: #e7e7e7;
+    }
+  }
+}
+
+.slider{
+  width:100px; float:left;
+}
