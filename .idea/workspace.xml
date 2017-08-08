@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="895a3929-4eec-424c-acb8-d21e0687ebe4" name="Default" comment="删除叹号！">
+    <list default="true" id="895a3929-4eec-424c-acb8-d21e0687ebe4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Hello.vue" afterPath="$PROJECT_DIR$/src/components/Hello.vue" />
     </list>
@@ -36,8 +36,8 @@
       <file leaf-file-name="Hello.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="50">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -428,7 +428,7 @@
       <workItem from="1500168659703" duration="513000" />
       <workItem from="1500169263724" duration="18619000" />
       <workItem from="1500346318950" duration="2220000" />
-      <workItem from="1502159726146" duration="3951000" />
+      <workItem from="1502159726146" duration="4341000" />
     </task>
     <task id="LOCAL-00001" summary="加个叹号！">
       <created>1502162977515</created>
@@ -458,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502164239386</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新增hello属性">
+      <created>1502164536829</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502164536829</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26701000" />
+    <option name="totallyTimeSpent" value="27091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -530,7 +537,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="加个叹号！" />
     <MESSAGE value="删除叹号！" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除叹号！" />
+    <MESSAGE value="新增hello属性" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增hello属性" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -921,8 +929,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Hello.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="50">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
           <folding />
         </state>
       </provider>
